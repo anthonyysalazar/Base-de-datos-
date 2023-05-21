@@ -1,0 +1,1 @@
+INSERT INTO cursos (Nombre) VALUES ("Programación"), ("Cocina"), ("Interpretación"), ("Astronomía"), ("Pesca");
